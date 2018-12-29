@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personnes>
+	<personne refId="1001">
+		<name>Mohamed</name>
+		<dob>31/8/1982</dob>
+	</personne>
+	<personne refId="1002">
+		<name>Ali</name>
+		<dob>26/7/1983</dob>
+	</personne>
+	<personne refId="1003">
+		<name>Saad</name>
+		<dob>21/3/2000</dob>
+	</personne>
+	<personne refId="1004">
+		<name>Anas</name>
+		<dob>21/3/1976</dob>
+	</personne>
+</personnes>
